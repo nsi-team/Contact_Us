@@ -21,4 +21,4 @@
     <p>Ou par <strong>message sur </strong> <a href="https://rene-gosse.mon-ent-occitanie.fr/">la messagerie de l'ENT</a></p>
     </body>
     <p></p>
-    <button><a href="https://maevebestdev.github.io/GIF_Mignon/">Retour à l'acceuil
+    <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil
