@@ -18,3 +18,4 @@
     </body>
     <p></p>
     <button><a href="https://nsi-team.github.io/GIF_mignon/">Retour à l'acceuil
+<script src="script.js"></script>
